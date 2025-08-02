@@ -11,6 +11,11 @@ body {
   background-position: left;
 }
 
+.opacar {
+  background-color: #373a3c;
+  opacity: 80%;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
